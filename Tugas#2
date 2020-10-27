@@ -1,0 +1,1 @@
+Berdasarkan Tugas#1, tambahkan file CSS pada bagian XML File untuk membuat tampilan header tabel menjadi berwarna dan pada bagian baris dengan selang seling warna putih dan abu-abu. Ex: <?xml-stylesheet href = "example.css" type = "text/css"?>
